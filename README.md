@@ -14,16 +14,16 @@ Member:
 
 ## Dataset Details
 The dataset used in this project is a combination 3 similiar dataset   
-Dataset 1 Owner: [RASHIK RAHMAN]   
-Dataset 1 Source: [https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset]   
+Dataset 1 Owner: RASHIK RAHMAN   
+Dataset 1 Source: [Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)   
 Dataset 1 Description: The dataset consists of 303 samples with 14 features including age, gender, blood pressure, cholesterol levels, etc. Each sample is filled with numerical value and no null value.   
 
-Dataset 2 Owner: [FEDESORIANO]   
-Dataset 2 Source: [https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction]   
+Dataset 2 Owner: FEDESORIANO   
+Dataset 2 Source: [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)   
 Dataset 2 Description: The dataset consists of 918 samples with 12 features including age, gender, blood pressure, cholesterol levels, etc.  Each sample is filled with both numerical and categorical value and also no null value.   
 
-Dataset 3 Owner: [DAVID LAPP]   
-Dataset 3 Source: [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset]   
+Dataset 3 Owner: DAVID LAPP   
+Dataset 3 Source: [Heart Disease Datases](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)   
 Dataset 3 Description: The dataset consists of 1025 samples with 14 features including age, gender, blood pressure, cholesterol levels, etc.  Each sample is filled with numerical value and no null value.   
 
 ## Cardiovascular Disease (CVD) Overview   

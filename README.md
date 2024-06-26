@@ -3,6 +3,7 @@
 This project is a group assignment of machine learning class LD01. This project aims to develop a machine learning model to classify the presence of Cardiovascular Disease (CVD) based on various health parameters. The dataset used for this project is sourced from Kaggle, specifically the Cardiovascular Disease dataset. The dataset contains information about patients' health metrics and whether they have CVD or not.
 
 ## Group Details
+Lecturer: D3243 - JOHANNES SIMATUPANG, S.Kom., M.Kom   
 Group: 6   
 Member:   
 - Bintang Haidar Rabbani Pradipayasa 2602193811

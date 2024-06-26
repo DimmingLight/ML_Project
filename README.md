@@ -1,4 +1,4 @@
-Cardiovascular Disease (CVD) Classification Using Random Forest
+# Cardiovascular Disease (CVD) Classification Using Random Forest
 ## Project Overview
 This project is a group assignment of machine learning class LD01. This project aims to develop a machine learning model to classify the presence of Cardiovascular Disease (CVD) based on various health parameters. The dataset used for this project is sourced from Kaggle, specifically the Cardiovascular Disease dataset. The dataset contains information about patients' health metrics and whether they have CVD or not.
 

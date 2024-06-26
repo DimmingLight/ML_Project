@@ -26,6 +26,8 @@ Dataset 3 Source: [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dat
 Dataset 3 Description: The dataset consists of 1025 samples with 14 features including age, gender, blood pressure, cholesterol levels, etc.  Each sample is filled with numerical value and no null value.   
 
 ## Cardiovascular Disease (CVD) Overview   
-Cardiovascular Disease (CVD) refers to a group of disorders of the heart and blood vessels. It includes coronary heart disease, cerebrovascular disease, peripheral arterial disease, and other conditions. CVD is a leading cause of death worldwide, emphasizing the importance of early detection and preventive measures.   
+Cardiovascular Disease (CVD) refers to a group of disorders of the heart and blood vessels. It includes coronary heart disease, cerebrovascular disease, peripheral arterial disease, and other conditions. CVD is a leading cause of death worldwide, emphasizing the importance of early detection and preventive measures.
+
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.   
+
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.

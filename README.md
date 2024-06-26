@@ -34,7 +34,7 @@ Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
 ## Prerequisites
-Ensure you have Python installed. You can download it from python.org.
+Ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
 ## Installing Dependencies
 ```bash

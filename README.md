@@ -5,7 +5,7 @@ This project is a group assignment of machine learning class LD01. This project 
 ## Group Details
 Lecturer: D3243 - JOHANNES SIMATUPANG, S.Kom., M.Kom   
 Group: 4   
-Member:   
+Member:
 - Bintang Haidar Rabbani Pradipayasa 2602193811
 - Mousa Khalil Mousa Ayesh 2602183306
 - Muhammad Fajar Faturohman 2602200161

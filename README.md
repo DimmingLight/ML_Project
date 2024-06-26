@@ -12,7 +12,7 @@ Member:
 - Rifky Maulana Iskandar 2602177045
 
 ## Dataset Details
-The dataset used in this project is a combination 3 similiar dataset
+The dataset used in this project is a combination 3 similiar dataset   
 Dataset 1 Owner: [RASHIK RAHMAN]   
 Dataset 1 Source: [https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset]   
 Dataset 1 Description: The dataset consists of 303 samples with 14 features including age, gender, blood pressure, cholesterol levels, etc. Each sample is filled with numerical value and no null value.   
